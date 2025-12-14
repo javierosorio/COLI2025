@@ -1,4 +1,6 @@
-<h1>Beyond Surface Metrics:\\Relation-Aware Typology of Rare-Term Loss in Political-Conflict Machine Translation</h1>
+<h1>Beyond Surface Metrics:
+  
+  Relation-Aware Typology of Rare-Term Loss in Political-Conflict Machine Translation</h1>
 <p>
 Machine translations (MT) of specialized-domain texts often alter or omit rare and domain-specific terms, reducing terminological precision depending on the nature of the change. However, current MT quality metrics often overcount rare-term loss, because many terms are altered only superficially (e.g., spelling variants or acronym expansions) rather than being semantically lost. These metrics therefore fail to differentiate harmless form variation from true semantic loss and cannot provide term-level diagnostics.
 
